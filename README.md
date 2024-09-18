@@ -16,7 +16,7 @@ Welcome to my JavaScript and HTML Projects repository! This repository contains 
       - DOM manipulation
    
 2. Movie Seat Booking 
-   Description: A Movie seat booking app, you can see which seats are booked, the price of the ticket and total price.
+   - Description: A Movie seat booking app, you can see which seats are booked, the price of the ticket and total price.
    - Technologies Used:
       - HTML
       - CSS ( Flexbox, Grid)
