@@ -85,7 +85,7 @@ body {
 }
 .container .leftMainCont .seat.occupied,
 .container .leftMainCont .seat.occupied::after {
-  background-color: lightgray;
+  background-color: rgb(237, 189, 175);
 }
 .container .leftMainCont .seat.selected,
 .container .leftMainCont .seat.selected::after {
@@ -137,7 +137,7 @@ body {
 }
 /*  */
 .container .confirmCont {
-  background-color: #614929;
+  background-color: #435882;
   display: flex;
   flex-direction: column;
   padding: 2rem;
@@ -242,7 +242,7 @@ body {
   font-size: 13px;
 }
 .container .confirmCont .rightBottomCont .numberOfSeatsCont .priceCont {
-  color: crimson;
+  color: rgb(63, 23, 32);
 }
 .container .confirmCont .rightBottomCont .buttonCont {
   display: flex;
